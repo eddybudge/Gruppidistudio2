@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "529561453590",
+    "firebase_url": "https://gruppi-di-studio.firebaseio.com",
+    "project_id": "gruppi-di-studio",
+    "storage_bucket": "gruppi-di-studio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529561453590:android:eeb95183e7eaeee2",
+        "android_client_info": {
+          "package_name": "p.b2.gruppidistudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529561453590-hcvmn536cakl9n1fd9u0dqdhn4eek8du.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "p.b2.gruppidistudio",
+            "certificate_hash": "63a21aa4cad38efb250395d87a515cf5e6788e0a"
+          }
+        },
+        {
+          "client_id": "529561453590-pkjg0j2cua7o60nrf0t825fni1ke98dd.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "529561453590-pkjg0j2cua7o60nrf0t825fni1ke98dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJkNeYFsIxbn956sFjolUuMwesMt7QBVg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529561453590-pkjg0j2cua7o60nrf0t825fni1ke98dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

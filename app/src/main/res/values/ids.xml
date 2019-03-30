@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="analisi" type="id"/>
+    <item name="disc_mat1" type="id"/>
+    <item name="disc_mat2" type="id"/>
+    <item name="arch_el1" type="id"/>
+    <item name="arch_el2" type="id"/>
+    <item name="prog1" type="id"/>
+    <item name="prog2" type="id"/>
+    <item name="ling" type="id"/>
+
+    <item name="calc" type="id"/>
+    <item name="prob" type="id"/>
+</resources>
